@@ -1,2 +1,37 @@
-# Week-4-IPL-Data-Analysis-Player-Match-Insights
-This project analyzes cricket match and player datasets to extract meaningful insights such as top scorers, strike rates, team win rates, and seasonal player performance. Data visualization techniques are used to better understand trends and player consistency across seasons.
+IPL Data Analysis 📊
+
+This project analyzes IPL match and delivery datasets to extract key insights about player performance and team success using Python
+
+ Features
+
+Identify top run scorers
+Calculate player strike rates
+Compute team win percentages
+Analyze player performance across seasons
+Visualize data using graphs
+Export summary results to CSV
+
+ Dataset
+
+matches.csv – match details season teams winner
+deliveries.csv – ball by ball match data
+
+Dataset paths used
+
+/content/matches.csv
+/content/deliveries.csv
+
+Tools used-
+Python
+Pandas
+Matplotlib
+Seaborn
+
+Output
+
+Visualizations of player and team performance
+Exported file player_summary.csv
+
+
+
+S
